@@ -1,8 +1,26 @@
-# Concurrent programming
+# ConcurrentProgramming – Multithreaded Bouncing Balls Simulation
 
-## Working Group
+This project was created as part of the **Concurrent Programming** course.  
+It demonstrates the use of **multithreading** in C# by simulating bouncing balls moving inside a frame and colliding with each other.
 
-| Name Surname (initials)       | GUID                                     |
-| ----------------------------- | ---------------------------------------- |
-| Piotr Wlazlo (piotr-wlazlo)   | `{DF86E3FC-A2C2-4BD1-9289-AE64FD440C7B}` |
-| Hubert Pacyna (Hubs123)       | `{C164303E-049B-4AD0-AD1A-618C670CE25C}` |
+## 📌 Project Description
+The application is a simple graphical simulation where multiple balls move within a defined frame:
+
+- Each ball runs in its own thread, updating its position concurrently.  
+- Collisions are detected both with the frame boundaries and with other balls.  
+- Synchronization mechanisms are used to prevent race conditions and ensure correct physics calculations.  
+
+The project illustrates common challenges of concurrent programming, such as:
+
+- thread management,  
+- synchronization of shared resources,  
+- avoiding race conditions and inconsistent state,  
+- handling continuous updates in a graphical environment.
+
+## 🛠️ Technologies
+
+- **Language:** C#  
+- **Framework:** .NET  
+- **Environment:** Visual Studio  
+
+
