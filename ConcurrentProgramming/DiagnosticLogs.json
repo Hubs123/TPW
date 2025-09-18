@@ -1,0 +1,45 @@
+{"Time_ms":10115,"Message":"Periodic update","BallID":1,"BallMass":5.0,"x_position":102.5974238083258,"y_position":155.93167725550046,"x_velocity":-1.2071021756120517,"y_velocity":-0.8795849283236392}
+{"Time_ms":10115,"Message":"Periodic update","BallID":2,"BallMass":5.0,"x_position":40.166719022835174,"y_position":200.33452827584543,"x_velocity":0.0988044394886459,"y_velocity":0.024979107683310877}
+{"Time_ms":10115,"Message":"Periodic update","BallID":3,"BallMass":5.0,"x_position":15.744069323141076,"y_position":328.8514290253083,"x_velocity":0.837291333657276,"y_velocity":-0.47701508339626897}
+{"Time_ms":10115,"Message":"Periodic update","BallID":4,"BallMass":1.0,"x_position":213.1575947202267,"y_position":211.56974300336125,"x_velocity":-2.222691265569547,"y_velocity":2.0236223951578665}
+{"Time_ms":10115,"Message":"Periodic update","BallID":5,"BallMass":5.0,"x_position":137.47856880023213,"y_position":57.64017828787992,"x_velocity":-0.08604138170093914,"y_velocity":0.6457993853623539}
+{"Time_ms":10115,"Message":"Periodic update","BallID":6,"BallMass":2.5,"x_position":25.8878283384125,"y_position":158.52583023641878,"x_velocity":1.2744007463547251,"y_velocity":1.5106823895911607}
+{"Time_ms":10115,"Message":"Periodic update","BallID":7,"BallMass":1.0,"x_position":137.9243443522035,"y_position":194.56177555501662,"x_velocity":-0.005394387789071864,"y_velocity":3.0382745492068706}
+{"Time_ms":10115,"Message":"Periodic update","BallID":8,"BallMass":1.0,"x_position":99.63571341029169,"y_position":104.67659138558813,"x_velocity":2.0287487347783917,"y_velocity":-1.7918700517380879}
+{"Time_ms":10115,"Message":"Periodic update","BallID":9,"BallMass":1.0,"x_position":64.83414516425273,"y_position":347.84544325236317,"x_velocity":-1.3342088570667285,"y_velocity":0.2682850572511133}
+{"Time_ms":10115,"Message":"Periodic update","BallID":10,"BallMass":5.0,"x_position":378.49034045159055,"y_position":175.56092009284413,"x_velocity":-0.3134298733931584,"y_velocity":-1.3610306222725579}
+
+{"Time_ms":20115,"Message":"Periodic update","BallID":1,"BallMass":5.0,"x_position":389.88774160399686,"y_position":210.4659428115669,"x_velocity":-1.2071021756120517,"y_velocity":0.8795849283236392}
+{"Time_ms":20115,"Message":"Periodic update","BallID":2,"BallMass":5.0,"x_position":219.9661255259047,"y_position":303.15044295807763,"x_velocity":0.46053893804213153,"y_velocity":0.047786557173155386}
+{"Time_ms":20115,"Message":"Periodic update","BallID":3,"BallMass":5.0,"x_position":321.2829245167813,"y_position":280.7136998361096,"x_velocity":1.0316357955041953,"y_velocity":-0.10699140034118473}
+{"Time_ms":20115,"Message":"Periodic update","BallID":4,"BallMass":1.0,"x_position":150.52836988856038,"y_position":272.0781956036799,"x_velocity":0.7872390540383891,"y_velocity":-0.8279337202207335}
+{"Time_ms":20115,"Message":"Periodic update","BallID":5,"BallMass":5.0,"x_position":326.8124987017137,"y_position":49.469730059444196,"x_velocity":0.4963957961105031,"y_velocity":0.24669527117097426}
+{"Time_ms":20115,"Message":"Periodic update","BallID":6,"BallMass":2.5,"x_position":134.1707121550429,"y_position":104.47704226896478,"x_velocity":2.6579423430583304,"y_velocity":-0.5302894646992898}
+{"Time_ms":20115,"Message":"Periodic update","BallID":7,"BallMass":1.0,"x_position":259.1065298804176,"y_position":155.65383028757117,"x_velocity":1.0721152999538388,"y_velocity":1.333389922668985}
+{"Time_ms":20115,"Message":"Periodic update","BallID":8,"BallMass":1.0,"x_position":18.897024243783846,"y_position":194.67758712688206,"x_velocity":1.7110413794709591,"y_velocity":-0.3919228928191}
+{"Time_ms":20115,"Message":"Periodic update","BallID":9,"BallMass":1.0,"x_position":69.32351346261248,"y_position":355.02268862521777,"x_velocity":-2.698489718131645,"y_velocity":-0.9347810529293631}
+{"Time_ms":20115,"Message":"Periodic update","BallID":10,"BallMass":5.0,"x_position":373.73605268549056,"y_position":344.5983260474343,"x_velocity":-0.25887157986117065,"y_velocity":-1.5248129324438104}
+
+{"Time_ms":30122,"Message":"Periodic update","BallID":1,"BallMass":5.0,"x_position":236.8119421379152,"y_position":194.38277851420352,"x_velocity":-0.2523500876314186,"y_velocity":0.4451728172595939}
+{"Time_ms":30122,"Message":"Periodic update","BallID":2,"BallMass":5.0,"x_position":118.94638328998957,"y_position":262.90253848459884,"x_velocity":0.317659352593942,"y_velocity":1.443346261178957}
+{"Time_ms":30122,"Message":"Periodic update","BallID":3,"BallMass":5.0,"x_position":186.96297559287194,"y_position":21.80467871228312,"x_velocity":-0.7195949397067856,"y_velocity":0.27387237609527953}
+{"Time_ms":30122,"Message":"Periodic update","BallID":4,"BallMass":1.0,"x_position":346.2116810960152,"y_position":63.82954028617681,"x_velocity":0.2332345120772275,"y_velocity":-0.5545525759263663}
+{"Time_ms":30122,"Message":"Periodic update","BallID":5,"BallMass":5.0,"x_position":271.95964189607986,"y_position":143.46368118528216,"x_velocity":0.5389490619902098,"y_velocity":-0.3232938113666002}
+{"Time_ms":30122,"Message":"Periodic update","BallID":6,"BallMass":2.5,"x_position":200.1125782947969,"y_position":71.34391269957908,"x_velocity":2.624731202504027,"y_velocity":1.9424054807109548}
+{"Time_ms":30122,"Message":"Periodic update","BallID":7,"BallMass":1.0,"x_position":15.983869976747801,"y_position":151.5697959832819,"x_velocity":1.4929651553765206,"y_velocity":-0.9756882631267662}
+{"Time_ms":30122,"Message":"Periodic update","BallID":8,"BallMass":1.0,"x_position":157.84077142121788,"y_position":190.60434809879564,"x_velocity":3.0969518824384497,"y_velocity":-1.8585500950764953}
+{"Time_ms":30122,"Message":"Periodic update","BallID":9,"BallMass":1.0,"x_position":256.24216363265907,"y_position":291.7350668297465,"x_velocity":1.53959805829441,"y_velocity":0.7860975615916224}
+{"Time_ms":30122,"Message":"Periodic update","BallID":10,"BallMass":5.0,"x_position":338.8015172629863,"y_position":297.45686002492073,"x_velocity":0.07930017371905729,"y_velocity":-0.5482265728619848}
+
+{"Time_ms":40115,"Message":"Periodic update","BallID":1,"BallMass":5.0,"x_position":327.29807562352477,"y_position":240.54392927548022,"x_velocity":-1.1055822239566233,"y_velocity":-0.13482391929695497}
+{"Time_ms":40115,"Message":"Periodic update","BallID":2,"BallMass":5.0,"x_position":342.1679458093732,"y_position":336.8288964608459,"x_velocity":-2.4472405448026384,"y_velocity":0.2215300626397081}
+{"Time_ms":40115,"Message":"Periodic update","BallID":3,"BallMass":5.0,"x_position":126.51700065750236,"y_position":133.5446081591579,"x_velocity":0.7195949397067856,"y_velocity":0.27387237609527953}
+{"Time_ms":40115,"Message":"Periodic update","BallID":4,"BallMass":1.0,"x_position":340.38081829408475,"y_position":177.51281835108298,"x_velocity":-0.2332345120772275,"y_velocity":0.5545525759263663}
+{"Time_ms":40115,"Message":"Periodic update","BallID":5,"BallMass":5.0,"x_position":27.6968110922651,"y_position":204.98790484608017,"x_velocity":-0.7459571864497976,"y_velocity":-0.19498042768726398}
+
+{"Time_ms":50118,"Message":"Periodic update","BallID":1,"BallMass":5.0,"x_position":120.55419974363741,"y_position":188.36707250755558,"x_velocity":1.1055822239566233,"y_velocity":-0.13482391929695497}
+{"Time_ms":50118,"Message":"Periodic update","BallID":2,"BallMass":5.0,"x_position":184.32616619671117,"y_position":369.2666571427273,"x_velocity":-1.6993582230233129,"y_velocity":0.004467776362619913}
+{"Time_ms":50118,"Message":"Periodic update","BallID":3,"BallMass":5.0,"x_position":376.93603967546204,"y_position":239.2593453319374,"x_velocity":-0.7195949397067856,"y_velocity":0.27387237609527953}
+{"Time_ms":50118,"Message":"Periodic update","BallID":4,"BallMass":1.0,"x_position":31.63112901200028,"y_position":329.8513690330203,"x_velocity":-3.9726461209738577,"y_velocity":-0.5754366190852741}
+{"Time_ms":50118,"Message":"Periodic update","BallID":5,"BallMass":5.0,"x_position":279.08438292584776,"y_position":129.9204401864868,"x_velocity":0.7459571864497976,"y_velocity":-0.19498042768726398}
+
